@@ -1,0 +1,15 @@
+.rateResponse {
+    background-color: #e0e0e0;
+    position: fixed;
+    top: 5px;
+    right: 10px;
+    border-radius: 15px;
+    border-top: solid #e0e0e0 1px;
+    margin: auto;
+    padding: 2px;
+    width: 30%;
+    height: 30%;
+    padding-bottom: 2px;
+    align-items: center;
+    vertical-align: middle
+}
